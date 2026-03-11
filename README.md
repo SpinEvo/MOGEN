@@ -4,4 +4,4 @@ MOdulation-Guided ENcoding (MOGEN) Scheme for Vessel-Encoded Arterial Spin Label
 
 A standalone GUI application for MOGEN is available for Windows users. The Windows executable (.exe) can be downloaded from Zenodo:
 
-https://zenodo.org/uploads/18908299
+https://zenodo.org/records/18908299
